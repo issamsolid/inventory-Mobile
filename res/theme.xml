@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="7" useXmlUI="false">
+    <image name="logo.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="6.0" />
+    </theme>
+</resource>
